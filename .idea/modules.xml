@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ScrollingTechniques.iml" filepath="$PROJECT_DIR$/ScrollingTechniques.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-MaterialDesign-ScrollingTechniques.iml" filepath="$PROJECT_DIR$/Android-MaterialDesign-ScrollingTechniques.iml" />
     </modules>
   </component>
 </project>
